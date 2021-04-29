@@ -1,1 +1,1 @@
-This is my Final Unix Project. Code works by typing in desired messages to be encrypted. Then typing the number which correlates to the encryption key.
+This is my Final Unix Project. Code works by typing in ./cipher into shell prompt then entering in the desired message to be encrypted. User then can type the number which correlates to the encryption key. Message will be displayed stripping away non-alphabet chracters and spacing every 5 characters while also creating a new line every 10 spaces.
